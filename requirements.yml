@@ -6,6 +6,5 @@ channels:
 dependencies:
   - python
   - pytorch
-  - faiss-cpu
   - torchvision
   - numpy
