@@ -1,0 +1,11 @@
+name: nnmemories
+channels:
+  - pytorch
+  - defaults
+  - conda-forge
+dependencies:
+  - python
+  - pytorch
+  - faiss-cpu
+  - torchvision
+  - numpy
